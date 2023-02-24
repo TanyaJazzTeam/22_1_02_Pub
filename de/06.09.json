@@ -12,7 +12,6 @@
         {
           "name": "Hydrodynamik",
           "complexity": "4",
-          "kd": "01",
           "interest": "3",
           "bool": "falsch"
         }
