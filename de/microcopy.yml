@@ -2,7 +2,10 @@
 title: ChromeOS für Desarrolladores
 topics: Temasli
 lastUpdated: Última actualización
+breadcrumbs: Volver a ((t))
 kline: Fahrer eines Autos
+datePosted: Fecha de publicación
+more: Leer más
 recommended: Empfehlungen
 skip:
   content: Adelante al contenido
@@ -11,7 +14,8 @@ landing:
   chapters: Themen en esta sección
 featured:
   eyebrow: Historia destacada
-resources: {}
+resources:
+  title: Wiederholungen
 related:
   title: Themen Relacionados
 tools:
